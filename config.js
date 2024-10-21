@@ -8,14 +8,14 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 //contact details
-global.ownernomer = "916909137213"
-global.owner = ["916909137213"]
+global.ownernomer = "2348110762584"
+global.owner = ["2348110762584"]
 global.ownername = "🦄Dream Guy Xeon"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '919366316018'  //creator number
+global.ownernumber = '2348110762584'  //creator number
 global.ownername = '🦄Dream Guy Xeon' //owner name
 global.botname = 'Xeon Bug Bot V11' //name of the bot
 
